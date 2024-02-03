@@ -4,7 +4,7 @@
 
 ### This paper attempt to predict and identify liver disease using various Machine Learning (ML) techniques. These techniques include Logistic Regression (LR), Support Vector Machine (SVM), Gradient Boosting (GB), Decision Tree (DT), and Random Forest (RF). The evaluation results depend upon the accuracy values indicated that the results achieved are 76.07%, 74.36%, 71.79%, 70.09%, and 80.34% for LR, SVM, GB, DT, and RF, respectively.
 
-### The system was put into action by assessing each phrase that was utilized. Determine if the patient has liver disease based on the medical reports. This phrase was utilized to lessen the workload for doctors. Please feel free to read and express your opinion https://ieeexplore.ieee.org/document/10390061
+### The system was put into action by assessing each phrase that was utilized. Determine if the patient has liver disease based on the medical reports. This phrase was utilized to lessen the workload for doctors. Please feel free to read and express your opinion https://ieeexplore.ieee.org/document/10390061 .
 
 
 
